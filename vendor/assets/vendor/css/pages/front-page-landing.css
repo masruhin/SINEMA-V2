@@ -20,7 +20,7 @@
 
 /* Hero */
 .landing-hero {
-  --bs-hero-bg: linear-gradient(138.18deg, #eae8fd 0%, #fce5e6 94.44%);
+  --bs-hero-bg: linear-gradient(138.18deg, #73bdff 0%, #97eda2 94.44%);
   border-radius: 0 0 3.5rem 3.5rem;
   background: var(--bs-hero-bg);
   padding-block-start: 10.2rem;
@@ -86,9 +86,9 @@
   inline-size: 100%;
 }
 
-.landing-hero-blank {
+/* .landing-hero-blank {
   padding-block-start: 26rem;
-}
+} */
 @media (max-width: 1199.98px) {
   .landing-hero-blank {
     padding-block-start: 15rem;
